@@ -10,6 +10,7 @@ export default defineConfig({
   base: "/cicd-react/",
   server: {
     open: true,
-    port: 5173
+    port: 3001
+    
   }
 })
